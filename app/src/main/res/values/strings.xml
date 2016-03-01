@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Proyecto_Keep</string>
+    <string name="title_activity_login2">Login2</string>
+    <string name="guardar">Guardar</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="editar">Editar</string>
+    <string name="borrar">Borrar</string>
+    <string name="hintUser">Usuario</string>
+    <string name="hintContrasenia">Contraseña</string>
+    <string name="botonLogin">Entrar</string>
+    <string name="tituloEditar">Editar Nota</string>
+    <string name="tituloNueva">Crear una nueva nota</string>
+    <string name="userVoid">Usuario vacio</string>
+    <string name="passVoid">Contrasenia vacia</string>
+    <string name="errorLogin">Error en login: Usuario o contrasenia no validos</string>
+    <string name="subidas">Notas subidas</string>
+    <string name="noInter">Sin conexion</string>
+    <string name="subidaser">Nota subida al servidor</string>
+    <string name="editaser">Nota editada en el servidor</string>
+    <string name="deleteser">Nota eliminada del servidor</string>
+</resources>
